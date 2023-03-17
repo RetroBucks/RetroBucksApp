@@ -1,0 +1,17 @@
+export const surpriseMePrompts = [
+  'a surrealist dream-like oil painting Avatar by Salvador Dalí of a cat',
+  'teddy bears Avatar in Japan, ukiyo-e',
+  'an oil painting Avatar by Matisse of a humanoid robot',
+  'panda mad scientist mixing sparkling chemicals Avatar, digital art',
+  '3D render Avatar of a cute tropical fish in an aquarium on a dark blue background, digital art',
+  'Avatar of an astronaut lounging in a tropical resort in space, vaporwave',
+  'Avatar of an oil painting portrait of a capybara wearing medieval royal robes and an ornate crown on a dark background',
+  'Avatar of a fortune-telling shiba inu reading your fate in a giant hamburger, digital art',
+  'Avatar of a Synthwave Hedgehog, Blade Runner Cyberpunk',
+  'Avatar of a Dinosaur exploring Cape Town, photography',
+  'Avatar of a man falling in Love with his Computer, digital art',
+  'Avatar of a cyborg exploring Tokyo at night, lomography',
+  'Avatar of Dracula walking down the street of New York City in the 1920s, black and white photography',
+  'A man wanders through the rainy streets of Tokyo, with bright neon signs, 50mm, Avatar',
+  'A Space Shuttle flying above Cape Town, digital art, Avatar',
+];
